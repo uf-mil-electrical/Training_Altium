@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Example.PrjPcb]
+   Generated File[Example.TXT]
+   Generated File[Example.LDP]
+   Generated File[Example.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:27:03 PM On 10/24/2019
